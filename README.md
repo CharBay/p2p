@@ -1,5 +1,17 @@
 # 支持wondows和linux
 
-需自行编译包里有完整源码和README
+linux依赖
+'''bash'''
+apt install libcurl4-openssl-dev
+'''
 
-**无doc文档，仅供学习使用**
+使用make debug或make release编译
+
+# 免费站点
+
+```text```
+http://
+```
+
+# 注意
+*无doc文档，仅供学习使用*
