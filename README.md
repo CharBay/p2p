@@ -11,11 +11,11 @@ make debug
 make release
 ```
 
-# 我的站点
+# 我的站点(可能不稳定)
 
 ```
-http://
+http://p2p.cbx.dpdns.org
 ```
 
 # 注意
-*无doc文档，仅供学习使用*
+*无收费行为，仅供学习使用*
