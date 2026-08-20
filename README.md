@@ -1,15 +1,15 @@
 # 支持wondows和linux
 
 linux依赖
-'''bash'''
+```
 apt install libcurl4-openssl-dev
-'''
+```
 
 使用make debug或make release编译
 
 # 免费站点
 
-```text```
+text```
 http://
 ```
 
